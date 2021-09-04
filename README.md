@@ -1,6 +1,6 @@
 ### Hi there, I'm Mashikur Rahman - aka [iammashikur][website] 👋
 
-[![Website](https://img.shields.io/website?label=iammashikur.com&style=for-the-badge&url=https%3A%2F%2Fiammashikur.com)](https://iammashikur.github.io)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPcLZCw3Ih6WUcRK_TsuTYQ?label=Subscribe&logo=youtube&style=for-the-badge)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iammashikur?label=Follow&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fiammashikur&screen_name=iammashikur)
 
 ## I'm an IOT Freak, WEB Developer, and Student!!
