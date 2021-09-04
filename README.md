@@ -41,36 +41,6 @@
 <br />
 <br />
 
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [How to Edge Cache GraphQL APIs // Max Stoiber React Advanced London Interview](https://www.youtube.com/watch?v=zAXG-c_JrkQ)
-- [$1M in 1000 Days❓, IDE vs Text Editor 🆚, & How Many Languages to Learn 📚 // STACKr News Weekly](https://www.youtube.com/watch?v=kroLbiFXMjw)
-- [Remote Team Collaboration Techniques // Tara Z. Manicsic React Advanced London Interview](https://www.youtube.com/watch?v=vQjDWKy6Pcw)
-- [2021 Frontend Roadmap #shorts | Save This!](https://www.youtube.com/watch?v=CxDwSZwysjQ)
-- [Make $500k as a College Dropout 💲, Find Tech Jobs 🔍, Get Started in Quantum 💻 // STACKr News Weekly](https://www.youtube.com/watch?v=OttkdpbSchQ)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/IOT_Freak)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/IOT_Freak/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/IOT_Freak/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/IOT_Freak/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/IOT_Freak/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/IOT_Freak/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://IOT_Freak.com)
-
----
-
 
 [website]: https://IOT_Freak.com
 [course]: http://vsCodeHero.com
