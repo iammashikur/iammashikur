@@ -1,7 +1,7 @@
-### Hi there, I'm Mashikur Rahman - aka [IOT_Freak][website] 👋
+### Hi there, I'm Mashikur Rahman - aka [iammashikur][website] 👋
 
-[![Website](https://img.shields.io/website?label=IOT_Freak.com&style=for-the-badge&url=https%3A%2F%2FIOT_Freak.com)](https://iammashikur.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/IOT_Freak?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FIOT_Freak&screen_name=IOT_Freak)
+[![Website](https://img.shields.io/website?label=iammashikur.com&style=for-the-badge&url=https%3A%2F%2Fiammashikur.com)](https://iammashikur.github.io)
+[![Twitter Follow](https://img.shields.io/twitter/follow/iammashikur?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fiammashikur&screen_name=iammashikur)
 
 ## I'm an IOT Freak, WEB Developer, and Student!!
 
@@ -11,11 +11,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="IOT_Freak.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="IOT_Freak | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="IOT_Freak | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="IOT_Freak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="IOT_Freak | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="iammashikur.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="iammashikur | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="iammashikur | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="iammashikur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="iammashikur | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
