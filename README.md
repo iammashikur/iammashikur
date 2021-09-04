@@ -1,7 +1,7 @@
 ### Hi there, I'm Mashikur Rahman - aka [IOT_Freak][website] 👋
 
 [![Website](https://img.shields.io/website?label=IOT_Freak.com&style=for-the-badge&url=https%3A%2F%2FIOT_Freak.com)](https://iammashikur.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/IOT_Freak?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/700mirash)
+[![Twitter Follow](https://img.shields.io/twitter/follow/700mirash?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/700mirash)
 
 ## I'm an IOT Freak, WEB Developer, and Student!!
 
