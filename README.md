@@ -1,6 +1,6 @@
 ### Hi there, I'm Mashikur Rahman - aka [IOT Freak][website] 👋
 
-[![Website](https://img.shields.io/youtube/channel/subscribers/UCPcLZCw3Ih6WUcRK_TsuTYQ?label=IOT%20FREAK&logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCPcLZCw3Ih6WUcRK_TsuTYQ)
+[![Website](https://img.shields.io/youtube/channel/subscribers/UCPcLZCw3Ih6WUcRK_TsuTYQ?label=MASHIKUR%20RAHMAN&logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCPcLZCw3Ih6WUcRK_TsuTYQ)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iammashikur?label=Follow&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fiammashikur&screen_name=iammashikur)
 
 ## I'm a WEB Developer
